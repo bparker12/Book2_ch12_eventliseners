@@ -1,0 +1,21 @@
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-right: 50%
+
+}
+
+#article1{
+    border: 1px solid blue;
+    width: 50%;
+    height: 25px;
+    padding: 5px
+}
+
+#article2{
+    border: 1px solid red;
+    width: 50%;
+    height: 25px;
+    padding: 5px
+}
